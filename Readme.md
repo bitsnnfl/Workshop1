@@ -3,8 +3,7 @@ Before you start the assignment you should set up your Python env. and get comfo
 
 ## Setting up Your Python Environment
 
-1. Download and install Anaconda's Python 3.7 version on your computers from [here](https://www.anaconda.com/distribution/). It is available for all 3 platforms - Windows, macOS and Linux.
-2. It will install Jupyter notebook on your system and download all the Python libraries that you'll need for this assignment. 
+1. If you have followed the emails we sent previously, you should have an environment called **workshop** setup and ready. Type the command **conda activate workshop** in your terminal. Now navigate to the folder where you downloaded this github repository and follow the steps below.
 
 ## Jupyter Notebooks
 
